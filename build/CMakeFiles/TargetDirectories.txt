@@ -1,0 +1,3 @@
+C:/Users/dcush/OneDrive/Desktop/Coding/C/A-star pathfinding/build/CMakeFiles/Pathfinding.dir
+C:/Users/dcush/OneDrive/Desktop/Coding/C/A-star pathfinding/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/dcush/OneDrive/Desktop/Coding/C/A-star pathfinding/build/CMakeFiles/ZERO_CHECK.dir

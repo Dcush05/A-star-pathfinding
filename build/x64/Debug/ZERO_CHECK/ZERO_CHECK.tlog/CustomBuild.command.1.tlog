@@ -1,0 +1,10 @@
+^C:\USERS\DCUSH\ONEDRIVE\DESKTOP\CODING\C\A-STAR PATHFINDING\BUILD\CMAKEFILES\0808C745884250A7CFE70BB30D3C5FA1\GENERATE.STAMP.RULE
+setlocal
+C:\Users\dcush\softwares\cmake-3.29.0-rc2-windows-x86_64\bin\cmake.exe "-SC:/Users/dcush/OneDrive/Desktop/Coding/C/A-star pathfinding" "-BC:/Users/dcush/OneDrive/Desktop/Coding/C/A-star pathfinding/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/dcush/OneDrive/Desktop/Coding/C/A-star pathfinding/build/Pathfinding.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
